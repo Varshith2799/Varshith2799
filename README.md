@@ -1,89 +1,126 @@
-## 👋 About Me
-Hi, I'm **Varshith Kakollu**, a Data Engineering, Data Analytics & Data Science professional passionate about building scalable data pipelines, performing advanced analytics, developing machine learning models, and creating insightful visualizations. With experience in **Big Data Processing, ETL Pipelines, Cloud Platforms, Machine Learning, and AI**, I aim to leverage my skills in solving real-world data challenges.
+Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **Data Engineer, Data Analyst, and Data Scientist**, specializing in designing scalable data solutions, building robust data pipelines, and implementing AI-powered insights for real-world problems. 
 
-🔗 **Connect with me:**  
+---
+
+## 👨‍💻 About Me
+🔹 **Name:** Varshith Kakollu  
+🔹 **Master's Degree:** *M.S. in Data Analytics Engineering, George Mason University (2023 – 2025)*  
+🔹 **Passionate About:** Data Engineering, Big Data Processing, Machine Learning, Cloud Computing & Data Visualization.  
+🔹 **Looking for:** Exciting opportunities in **Data Engineering, Data Analytics, and Data Science**.
+
+📬 **Let's Connect:**  
 [📧 Email](mailto:vkakollu@gmu.edu) | [💼 LinkedIn](https://linkedin.com/in/vkakollu9999/) | [🔗 GitHub](https://github.com/Varshith2799)
 
 ---
 
 ## 🛠️ Technical Skills
-- **Programming:** Python, SQL, R  
-- **Data Engineering:** Apache Airflow, Apache Spark, Snowflake, Docker, ETL Pipelines, Data Warehousing  
-- **Data Analysis:** Numpy, Pandas, Matplotlib, Seaborn, ggplot2, Data Cleaning, Data Storytelling  
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, XGBoost, NLP, Deep Learning  
-- **Data Visualization:** Power BI, Tableau, QuickSight  
-- **Cloud Platforms:** AWS (EC2, S3, Glue, Lambda, Athena)  
-- **Databases:** MySQL, SQL Server, Snowflake  
-- **Developer Tools:** Jupyter Notebook, Databricks, VS Code, PyCharm, Alteryx, Docker  
-- **Office Tools:** Advanced Excel, Pivot Tables, PowerPoint, Word, MS Office Suite  
-- **Data Modeling:** Power Query (M-Query), DAX  
 
----
+### 💾 **Data Engineering**
+✔️ Apache Airflow, Apache Spark, Snowflake, ETL Pipelines, Data Warehousing  
+✔️ AWS (EC2, S3, Glue, Lambda, Athena)  
+✔️ Docker, Kubernetes, Databricks  
 
-## 💼 Work Experience
-### 🔹 **Blue Yonder Hyderabad** - *Data Engineering Intern* (June 2022 – Dec 2022)
-- Developed scalable **ETL pipelines** using AWS Glue, Lambda, and Apache Airflow for high-volume data ingestion.
-- Reduced SQL query execution time by **40%**, optimizing data transformation logic for improved reporting performance.
-- Designed **real-time data workflows** integrating Snowflake and AWS S3, improving analytics efficiency.
+### 📊 **Data Analytics & Visualization**
+✔️ SQL, Python, R  
+✔️ Pandas, NumPy, Matplotlib, Seaborn, ggplot2  
+✔️ Power BI, Tableau, QuickSight  
 
-### 🔹 **SWECHA India** - *Data Analytics Intern* (May 2021 – Aug 2021)
-- Automated data extraction and transformation workflows, reducing manual efforts by **50%**.
-- Built **interactive dashboards** with Power BI & Tableau for tracking KPIs and operational metrics.
-- Developed **predictive models** using Scikit-learn to forecast trends and optimize decision-making.
+### 🤖 **Machine Learning & Data Science**
+✔️ Scikit-learn, TensorFlow, Keras, XGBoost  
+✔️ NLP, Deep Learning, Computer Vision  
+✔️ Time Series Forecasting, Predictive Modeling  
 
----
-
-## 🚀 Projects
-### 📌 **Spotify Data Pipeline on AWS Cloud** *(Aug 2023 - Sep 2023)*  
-**Tech Stack:** Python, AWS Lambda, S3, Glue, Apache Airflow, Snowflake  
-- Designed an end-to-end **data pipeline** to process and analyze **Spotify music streaming data** in real-time.
-- Implemented **serverless architecture** with AWS Lambda and automated workflows using Airflow (Docker-based).
-- Achieved **60% reduction** in data processing latency and enabled real-time analytics.
-
-### 📌 **YouTube Data Engineering Pipeline** *(Jan 2024 - Mar 2024)*  
-**Tech Stack:** Python, AWS S3, Glue, Lambda, Apache Airflow, Redshift Spectrum  
-- Built a **real-time data pipeline** for processing YouTube video metadata and user engagement analytics.
-- Reduced data ingestion latency by **50%**, delivering faster insights into **views, likes, and retention rates**.
-
-### 📌 **Customer Purchase Analytics Pipeline** *(May 2024 - Jul 2024)*  
-**Tech Stack:** AWS Glue, Athena, QuickSight, AWS Lambda  
-- Developed a **scalable data pipeline** for analyzing customer purchase behaviors.
-- Created **interactive dashboards** in AWS QuickSight for real-time insights.
-- Reduced query runtime by **40%** with optimized workflows.
-
-### 📌 **IPL Analysis Dashboard** *(Mar 2024 - Apr 2024)*  
-**Tech Stack:** Tableau  
-- Designed an **interactive Tableau dashboard** analyzing IPL cricket data (matches, players, toss decisions).
-- Improved **engagement and analytical efficiency by 50%**, delivering actionable insights for cricket analysts.
-
-### 📌 **Credit Card Churn Prediction** *(Oct 2023 - Dec 2023)*  
-**Tech Stack:** Python, Scikit-learn, Random Forest, Logistic Regression  
-- Built a **predictive model** to analyze customer churn among 4,000+ U.S. bank customers.
-- Achieved **95.6% accuracy** and **0.955 AUC**, identifying key demographic and behavioral churn factors.
-
-### 📌 **Course Recommendation System Using TF-IDF and Fuzzy Matching** *(Aug 2023 - Sep 2023)*  
-**Tech Stack:** Python, TF-IDF, Cosine Similarity, Fuzzy Matching, Seaborn  
-- Developed a **recommendation system** suggesting Udemy courses based on user queries.
-- Implemented **fuzzy string matching** for typo correction and relevance improvement.
-- Visualized recommendations using Seaborn and exported results to CSV for Power BI integration.
-
-### 📌 **NLP-Based Sentiment Analysis on Social Media Data** *(Sep 2023 - Nov 2023)*  
-**Tech Stack:** Python, NLP, Transformers, BERT, NLTK, Scikit-learn  
-- Built an **NLP model** to analyze sentiment trends in Twitter/X social media data.
-- Used **BERT & NLTK** to preprocess, classify, and visualize sentiment trends over time.
-- Achieved **90%+ accuracy** in detecting positive, negative, and neutral sentiments.
+### 🗄️ **Databases & Developer Tools**
+✔️ MySQL, SQL Server, Snowflake  
+✔️ Jupyter Notebook, VS Code, PyCharm, Alteryx  
+✔️ Advanced Excel, Power Query (M-Query), DAX  
 
 ---
 
 ## 🎓 Education
 **George Mason University, Fairfax, VA**  
-🎓 *Master of Science in Data Analytics Engineering* *(Aug 2023 – May 2025)*
+📚 *Master of Science in Data Analytics Engineering* *(Aug 2023 – May 2025)*
+
+### 📖 **Courses Taken:**
+- Statistics & Visualization for Analytics  
+- Analytics Big Data to Info  
+- Principles of Data Management/Mining  
+- Introduction to Natural Language Processing  
+- Big Data Essentials  
+- Data Mining for Business Analytics  
+- Marketing Research  
+- Fraud Examination  
+- Introduction to Analytics & Modeling  
 
 ---
 
-## 🎖️ Certifications
-- **AWS Certified Data Engineer – Associate** *(Issued: Dec 2024)*  
+## 💼 Work Experience
+
+### 🔹 **Blue Yonder Hyderabad** - *Data Engineering Intern* *(June 2022 – Dec 2022)*
+- Engineered **scalable ETL pipelines** using AWS Glue, Lambda, and Apache Airflow.
+- **Optimized SQL queries**, reducing execution time by **40%**.
+- Designed real-time workflows, integrating **Snowflake and AWS S3**.
+- Established **data governance policies** to ensure compliance and transparency.
+
+### 🔹 **SWECHA India** - *Data Analytics Intern* *(May 2021 – Aug 2021)*
+- Automated data workflows, reducing manual work by **50%**.
+- Built **interactive dashboards** in **Power BI & Tableau**.
+- Developed **predictive models** to improve decision-making.
+- Implemented **real-time tracking** for operational metrics using Plotly.
 
 ---
 
-🔥 **Thanks for visiting! Feel free to explore my projects and connect with me.** 🚀
+## 🚀 Certifications
+- ✅ **AWS Certified Data Engineer – Associate** *(Issued: Dec 2024)*  
+- ✅ **Tableau 2024.1 Essential Training** *(Completed: Feb 02, 2025)*
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 **Spotify Data Pipeline on AWS Cloud** *(Aug 2023 - Sep 2023)*  
+📌 *Tech Stack:* Python, AWS Lambda, S3, Glue, Apache Airflow, Snowflake  
+✔️ Built an **end-to-end data pipeline** for real-time **Spotify streaming data analysis**.  
+✔️ Achieved **60% latency reduction** in processing.  
+
+### 📺 **YouTube Data Engineering Pipeline** *(Jan 2024 - Mar 2024)*  
+📌 *Tech Stack:* Python, AWS S3, Glue, Lambda, Apache Airflow, Redshift Spectrum  
+✔️ Developed a **real-time data pipeline** analyzing **YouTube video metadata & user engagement**.  
+✔️ Reduced data ingestion latency by **50%**.
+
+### 🛒 **Customer Purchase Analytics Pipeline** *(May 2024 - Jul 2024)*  
+📌 *Tech Stack:* AWS Glue, Athena, QuickSight, AWS Lambda  
+✔️ Created an **interactive analytics dashboard** for **customer purchasing patterns**.  
+✔️ Optimized **query runtime by 40%**.
+
+### 🏏 **IPL Analysis Dashboard** *(Mar 2024 - Apr 2024)*  
+📌 *Tech Stack:* Tableau  
+✔️ Designed a **dynamic dashboard** analyzing **IPL matches, players, and toss decisions**.  
+✔️ Enhanced **user engagement by 50%**.
+
+### 🎾 **ATP Tennis Match Analysis Dashboard** *(Jan 2024 - Mar 2024)*  
+📌 *Tech Stack:* Tableau  
+✔️ Designed a dashboard analyzing **ATP match data, player performance, and court trends**.  
+✔️ Delivered **40% improved analysis efficiency**.
+
+### 💳 **Credit Card Churn Prediction** *(Oct 2023 - Dec 2023)*  
+📌 *Tech Stack:* Python, Scikit-learn, Random Forest, Logistic Regression  
+✔️ Developed a **churn prediction model** achieving **95.6% accuracy**.
+✔️ Recommended strategies that reduced churn rates by **15%**.
+
+### 🎓 **Course Recommendation System Using TF-IDF & Fuzzy Matching** *(Aug 2023 - Sep 2023)*  
+📌 *Tech Stack:* Python, TF-IDF, Cosine Similarity, Fuzzy Matching  
+✔️ Built a **personalized course recommendation system** using **NLP**.
+✔️ Implemented fuzzy matching to improve query accuracy.
+
+### 📝 **NLP-Based Sentiment Analysis on Social Media Data** *(Sep 2023 - Nov 2023)*  
+📌 *Tech Stack:* Python, NLP, Transformers, BERT, NLTK  
+✔️ Developed an **AI model** analyzing **Twitter/X sentiment trends**.
+✔️ Achieved **90%+ accuracy** in detecting sentiments.
+
+---
+
+### 🎯 **Conclusion**
+This portfolio showcases my **Data Engineering, Data Analytics & Data Science projects**, skills, and experience.  
+💡 **Want to collaborate or hire me? Reach out!** 😊  
+📬 [📧 Email](mailto:vkakollu@gmu.edu) | [💼 LinkedIn](https://linkedin.com/in/vkakollu9999/) | [🔗 GitHub](https://github.com/Varshith2799)
