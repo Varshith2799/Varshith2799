@@ -56,7 +56,7 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 
 ## 💼 Work Experience
 
-### 🔹 **GMU Center for Air Transportation Systems Research (CATSR)** – *Capstone Data Engineer* *(Jan 2025 – May 2025)*  
+### 🔹 **GMU Center for Air Transportation Systems Research (CATSR)** – *Capstone Data Engineer* *(Jan 2025 – Present)*  
 - Built an **automated data pipeline** using **AWS Lambda** and **EventBridge** to ingest airline stock and operational data from **Yahoo Finance** and **BTS TranStats**.  
 - Engineered features from **financial**, **operational**, and **macroeconomic** indicators to improve predictive accuracy.  
 - Developed models using **LSTM**, **GRU**, **XGBoost**, **ElasticNet**, and **ARIMA** for both **hourly** and **quarterly** forecasts.  
