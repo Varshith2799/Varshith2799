@@ -16,24 +16,24 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 ## 🛠️ Technical Skills
 
 ### 💾 **Data Engineering**
-✔️ Apache Airflow, Apache Spark, Snowflake, ETL Pipelines, Data Warehousing  
-✔️ AWS (EC2, S3, Glue, Lambda, Athena)  
-✔️ Docker, Kubernetes, Databricks  
+✔️ **Apache Airflow**, **Apache Spark**, **Snowflake**, **ETL Pipelines**, **Data Warehousing**  
+✔️ **AWS (EC2, S3, Glue, Lambda, Athena)**  
+✔️ **Docker**, **Kubernetes**, **Databricks**  
 
 ### 📊 **Data Analytics & Visualization**
-✔️ SQL, Python, R  
-✔️ Pandas, NumPy, Matplotlib, Seaborn, ggplot2  
-✔️ Power BI, Tableau, QuickSight  
+✔️ **SQL**, **Python**, **R**  
+✔️ **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **ggplot2**  
+✔️ **Power BI**, **Tableau**, **QuickSight**  
 
 ### 🤖 **Machine Learning & Data Science**
-✔️ Scikit-learn, TensorFlow, Keras, XGBoost  
-✔️ NLP, Deep Learning, Computer Vision  
-✔️ Time Series Forecasting, Predictive Modeling  
+✔️ **Scikit-learn**, **TensorFlow**, **Keras**, **XGBoost**  
+✔️ **NLP**, **Deep Learning**, **Computer Vision**  
+✔️ **Time Series Forecasting**, **Predictive Modeling**  
 
 ### 🗄️ **Databases & Developer Tools**
-✔️ MySQL, SQL Server, Snowflake  
-✔️ Jupyter Notebook, VS Code, PyCharm, Alteryx  
-✔️ Advanced Excel, Power Query (M-Query), DAX  
+✔️ **MySQL**, **SQL Server**, **Snowflake**  
+✔️ **Jupyter Notebook**, **VS Code**, **PyCharm**, **Alteryx**  
+✔️ **Advanced Excel**, **Power Query (M-Query)**, **DAX**  
 
 ---
 
@@ -57,16 +57,40 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 ## 💼 Work Experience
 
 ### 🔹 **Blue Yonder Hyderabad** - *Data Engineering Intern* *(June 2022 – Dec 2022)*
-- Engineered **scalable ETL pipelines** using AWS Glue, Lambda, and Apache Airflow.
+- Engineered **scalable ETL pipelines** using **AWS Glue**, **Lambda**, and **Apache Airflow**.
 - **Optimized SQL queries**, reducing execution time by **40%**.
-- Designed real-time workflows, integrating **Snowflake and AWS S3**.
+- Designed real-time workflows, integrating **Snowflake** and **AWS S3**.
 - Established **data governance policies** to ensure compliance and transparency.
 
 ### 🔹 **SWECHA India** - *Data Analytics Intern* *(May 2021 – Aug 2021)*
-- Automated data workflows, reducing manual work by **50%**.
-- Built **interactive dashboards** in **Power BI & Tableau**.
+- Automated **data workflows**, reducing manual work by **50%**.
+- Built **interactive dashboards** in **Power BI** & **Tableau**.
 - Developed **predictive models** to improve decision-making.
-- Implemented **real-time tracking** for operational metrics using Plotly.
+- Implemented **real-time tracking** for operational metrics using **Plotly**.
+
+---
+
+## 💼 **Entrepreneurial & Family Business Experience**
+
+### 🍽️ **Data Analyst – Restaurant Operations**  
+**Madhuvan Group Of Hotels (Family-Owned Restaurant Chain) – Multiple Cities, India** *(Jan 2020 – Present)*  
+- Performed **sales trend analysis** using **Excel** and **Python**, identifying best-selling items and underperforming menu categories to inform **pricing** and **promotion strategies**.  
+- Aggregated and analyzed **customer reviews**, **order patterns**, and **survey feedback** to optimize the menu, leading to a **15% increase in customer satisfaction**.  
+- Created **forecasting models** to align **inventory** with projected demand, reducing **perishable food waste by over 10%**.  
+- Executed **marketing campaign analytics** by segmenting customer data for **targeted SMS** and **social media promotions**; tracked performance via **ROI** and **conversion rates**.  
+- Built **real-time dashboards** using **Tableau** and **Power BI** for **branch managers** to monitor **footfall**, **average order value (AOV)**, **peak hours**, and **staff efficiency**.  
+- Consolidated data from multiple branches to create **multi-branch performance reports**, highlighting **regional trends** and offering **data-driven recommendations**.  
+- Supported **pricing strategy** using **competitor analysis** and historical margin data to increase **profitability**.
+
+### 🏨 **Junior Data Engineer – Hospitality Analytics**  
+**Madhuvan Group Of Hotels (Family-Owned Business) – Multiple Cities, India** *(Jan 2021 – Present)*  
+- Developed **data pipelines** to consolidate **booking data** from multiple hotel branches into a centralized **PostgreSQL** database, improving data consistency.  
+- Built automated **ETL workflows** using **Python** and **Pandas** to ingest room reservations, occupancy logs, and **guest feedback** from CSVs and spreadsheets.  
+- Designed **normalized relational schemas** for bookings, **housekeeping**, customer details, and **service usage**, improving **query performance** and **reporting scalability**.  
+- Integrated hotel operations with **Tableau** and **Power BI** dashboards to visualize **occupancy rate**, **RevPAR**, and **average length of stay**, enabling **real-time decision-making**.  
+- Implemented secure **cloud backups to AWS S3**, enhancing **data integrity** and **disaster recovery readiness**.  
+- Reduced **manual reporting time by 35%** through automated **data refresh pipelines** and dynamic **summary reports**.  
+- Collaborated across locations to standardize **data collection practices**, ensuring **data quality** and reporting alignment.
 
 ---
 
@@ -79,43 +103,43 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 ## 🚀 Featured Projects
 
 ### 🎵 **Spotify Data Pipeline on AWS Cloud** *(Aug 2023 - Sep 2023)*  
-📌 *Tech Stack:* Python, AWS Lambda, S3, Glue, Apache Airflow, Snowflake  
+📌 *Tech Stack:* **Python**, **AWS Lambda**, **S3**, **Glue**, **Apache Airflow**, **Snowflake**  
 ✔️ Built an **end-to-end data pipeline** for real-time **Spotify streaming data analysis**.  
 ✔️ Achieved **60% latency reduction** in processing.  
 
 ### 📺 **YouTube Data Engineering Pipeline** *(Jan 2024 - Mar 2024)*  
-📌 *Tech Stack:* Python, AWS S3, Glue, Lambda, Apache Airflow, Redshift Spectrum  
+📌 *Tech Stack:* **Python**, **AWS S3**, **Glue**, **Lambda**, **Apache Airflow**, **Redshift Spectrum**  
 ✔️ Developed a **real-time data pipeline** analyzing **YouTube video metadata & user engagement**.  
 ✔️ Reduced data ingestion latency by **50%**.
 
 ### 🛒 **Customer Purchase Analytics Pipeline** *(May 2024 - Jul 2024)*  
-📌 *Tech Stack:* AWS Glue, Athena, QuickSight, AWS Lambda  
+📌 *Tech Stack:* **AWS Glue**, **Athena**, **QuickSight**, **AWS Lambda**  
 ✔️ Created an **interactive analytics dashboard** for **customer purchasing patterns**.  
 ✔️ Optimized **query runtime by 40%**.
 
 ### 🏏 **IPL Analysis Dashboard** *(Mar 2024 - Apr 2024)*  
-📌 *Tech Stack:* Tableau  
+📌 *Tech Stack:* **Tableau**  
 ✔️ Designed a **dynamic dashboard** analyzing **IPL matches, players, and toss decisions**.  
 ✔️ Enhanced **user engagement by 50%**.
 
 ### 🎾 **ATP Tennis Match Analysis Dashboard** *(Jan 2024 - Mar 2024)*  
-📌 *Tech Stack:* Tableau  
+📌 *Tech Stack:* **Tableau**  
 ✔️ Designed a dashboard analyzing **ATP match data, player performance, and court trends**.  
 ✔️ Delivered **40% improved analysis efficiency**.
 
 ### 💳 **Credit Card Churn Prediction** *(Oct 2023 - Dec 2023)*  
-📌 *Tech Stack:* Python, Scikit-learn, Random Forest, Logistic Regression  
-✔️ Developed a **churn prediction model** achieving **95.6% accuracy**.
+📌 *Tech Stack:* **Python**, **Scikit-learn**, **Random Forest**, **Logistic Regression**  
+✔️ Developed a **churn prediction model** achieving **95.6% accuracy**.  
 ✔️ Recommended strategies that reduced churn rates by **15%**.
 
 ### 🎓 **Course Recommendation System Using TF-IDF & Fuzzy Matching** *(Aug 2023 - Sep 2023)*  
-📌 *Tech Stack:* Python, TF-IDF, Cosine Similarity, Fuzzy Matching  
-✔️ Built a **personalized course recommendation system** using **NLP**.
+📌 *Tech Stack:* **Python**, **TF-IDF**, **Cosine Similarity**, **Fuzzy Matching**  
+✔️ Built a **personalized course recommendation system** using **NLP**.  
 ✔️ Implemented fuzzy matching to improve query accuracy.
 
 ### 📝 **NLP-Based Sentiment Analysis on Social Media Data** *(Sep 2023 - Nov 2023)*  
-📌 *Tech Stack:* Python, NLP, Transformers, BERT, NLTK  
-✔️ Developed an **AI model** analyzing **Twitter/X sentiment trends**.
+📌 *Tech Stack:* **Python**, **NLP**, **Transformers**, **BERT**, **NLTK**  
+✔️ Developed an **AI model** analyzing **Twitter/X sentiment trends**.  
 ✔️ Achieved **90%+ accuracy** in detecting sentiments.
 
 ---
