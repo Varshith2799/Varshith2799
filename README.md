@@ -56,11 +56,26 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 
 ## 💼 Work Experience
 
+### 🔹 **GMU Center for Air Transportation Systems Research (CATSR)** – *Capstone Data Engineer* *(Jan 2025 – May 2025)*  
+- Built an **automated data pipeline** using **AWS Lambda** and **EventBridge** to ingest airline stock and operational data from **Yahoo Finance** and **BTS TranStats**.  
+- Engineered features from **financial**, **operational**, and **macroeconomic** indicators to improve predictive accuracy.  
+- Developed models using **LSTM**, **GRU**, **XGBoost**, **ElasticNet**, and **ARIMA** for both **hourly** and **quarterly** forecasts.  
+- Designed an **Airline Productivity Dashboard** integrating KPIs and predictive insights for executive decision-making.  
+- Achieved robust accuracy through **GridSearchCV**, **TimeSeriesSplit**, and **rolling validation**.  
+- Delivered insights via **Tableau** dashboards and stakeholder presentations.
+
 ### 🔹 **Blue Yonder Hyderabad** - *Data Engineering Intern* *(June 2022 – Dec 2022)*
 - Engineered **scalable ETL pipelines** using **AWS Glue**, **Lambda**, and **Apache Airflow**.
 - **Optimized SQL queries**, reducing execution time by **40%**.
 - Designed real-time workflows, integrating **Snowflake** and **AWS S3**.
 - Established **data governance policies** to ensure compliance and transparency.
+
+### 🔹 **Excelerate – Data Visualization Intern** *(Feb 2025 – Apr 2025)*  
+- Developed **interactive dashboards** in **Tableau** and **Power BI** to visualize KPIs for marketing and product insights.  
+- Conducted **exploratory data analysis (EDA)** on customer feedback and sales performance data.  
+- Automated **data cleaning workflows** using **SQL** and **Excel VBA**, improving report generation speed by **30%**.  
+- Created presentations summarizing insights for **weekly client meetings**, increasing stakeholder engagement.  
+- Collaborated cross-functionally to improve **data-driven decision-making** across product and marketing teams.
 
 ### 🔹 **SWECHA India** - *Data Analytics Intern* *(May 2021 – Aug 2021)*
 - Automated **data workflows**, reducing manual work by **50%**.
@@ -95,8 +110,16 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 ---
 
 ## 🚀 Certifications
-- ✅ **AWS Certified Data Engineer – Associate** *(Issued: Dec 2024)*  
-- ✅ **Tableau 2024.1 Essential Training** *(Completed: Feb 02, 2025)*
+
+- ✅ **AWS Certified Data Engineer – Associate** *(Dec 2024)*  
+- ✅ **Tableau 2024.1 Essential Training** *(Feb 02, 2025)*  
+- ✅ **Introduction to Python – DataCamp** *(Sep 12, 2023)* 
+- ✅ **Introduction to SQL – DataCamp** *(Sep 25, 2023)*  
+- ✅ **Introduction to R – DataCamp** *(Sep 21, 2023)* 
+- ✅ **Understanding Data Engineering – DataCamp** *(Sep 27, 2023)*  
+- ✅ **Introduction to the Tidyverse – DataCamp** *(Feb 05, 2024)*  
+- ✅ **Modeling with Tidymodels in R – DataCamp** *(Feb 26, 2024)*
+
 
 ---
 
