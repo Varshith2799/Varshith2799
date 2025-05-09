@@ -56,56 +56,65 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 
 ## 💼 Work Experience
 
-### 🔹 **GMU Center for Air Transportation Systems Research (CATSR)** – *Capstone Data Engineer* *(Jan 2025 – Present)*  
-- Built an **automated data pipeline** using **AWS Lambda** and **EventBridge** to ingest airline stock and operational data from **Yahoo Finance** and **BTS TranStats**.  
-- Engineered features from **financial**, **operational**, and **macroeconomic** indicators to improve predictive accuracy.  
-- Developed models using **LSTM**, **GRU**, **XGBoost**, **ElasticNet**, and **ARIMA** for both **hourly** and **quarterly** forecasts.  
-- Designed an **Airline Productivity Dashboard** integrating KPIs and predictive insights for executive decision-making.  
-- Achieved robust accuracy through **GridSearchCV**, **TimeSeriesSplit**, and **rolling validation**.  
-- Delivered insights via **Tableau** dashboards and stakeholder presentations.
+### 🛫 Data Analyst – Center for Air Transportation Systems Research (CATSR)  
+**George Mason University**  
+*Jan 2025 – Present · Fairfax, Virginia · On-site*
 
-### 🔹 **Blue Yonder Hyderabad** - *Data Engineering Intern* *(June 2022 – Dec 2022)*
-- Engineered **scalable ETL pipelines** using **AWS Glue**, **Lambda**, and **Apache Airflow**.
-- **Optimized SQL queries**, reducing execution time by **40%**.
-- Designed real-time workflows, integrating **Snowflake** and **AWS S3**.
-- Established **data governance policies** to ensure compliance and transparency.
+- 📚 Analyzed over 500,000 rows of historical flight data from the Bureau of Transportation Statistics, improving data quality by 35% using Python (pandas).
+- ⚙️ Automated real-time stock data ingestion using AWS Lambda and Amazon EventBridge, reducing manual data collection efforts by 90%.
+- 🧩 Engineered and merged airline performance and financial datasets into Amazon S3 for centralized access and daily updates.
+- 🌲 Applied Random Forest model for feature selection, identifying the top 10 predictors for flight and stock data analysis.
+- 📈 Trained and evaluated multiple forecasting models including Lasso, Ridge, XGBoost, Random Forest, and LSTM, achieving up to 87% accuracy in predicting airline performance.
+- 📊 Designed and deployed interactive dashboards using React and Vercel, improving data visibility for investors and operational stakeholders.
 
-### 🔹 **Excelerate – Data Visualization Intern** *(Feb 2025 – Apr 2025)*  
-- Developed **interactive dashboards** in **Tableau** and **Power BI** to visualize KPIs for marketing and product insights.  
-- Conducted **exploratory data analysis (EDA)** on customer feedback and sales performance data.  
-- Automated **data cleaning workflows** using **SQL** and **Excel VBA**, improving report generation speed by **30%**.  
-- Created presentations summarizing insights for **weekly client meetings**, increasing stakeholder engagement.  
-- Collaborated cross-functionally to improve **data-driven decision-making** across product and marketing teams.
+### 🏢 Data Engineering Intern – Blue Yonder  
+*June 2022 – Dec 2022 · Hyderabad, India*
 
-### 🔹 **SWECHA India** - *Data Analytics Intern* *(May 2021 – Aug 2021)*
-- Automated **data workflows**, reducing manual work by **50%**.
-- Built **interactive dashboards** in **Power BI** & **Tableau**.
-- Developed **predictive models** to improve decision-making.
-- Implemented **real-time tracking** for operational metrics using **Plotly**.
+- 🔧 Engineered **scalable ETL pipelines** using **AWS Glue**, **Lambda**, and **Apache Airflow** to streamline supply chain analytics workflows.  
+- ⚡ Optimized **SQL queries**, reducing query execution time by **40%**, enhancing reporting speed and resource efficiency.  
+- 🏗️ Designed real-time data workflows integrated with **Snowflake** and **AWS S3** to ensure reliable and timely access to analytics data.  
+- ✅ Established **data governance policies** to ensure regulatory compliance, data integrity, and transparency across stakeholders.  
+
+---
+
+### 📊 Data Visualization Intern – Excelerate  
+*Feb 2025 – Apr 2025 · Remote*
+
+- 📈 Developed **interactive dashboards** in **Tableau** and **Power BI** to track KPIs for marketing and product strategies.  
+- 🔍 Conducted **exploratory data analysis (EDA)** on customer sentiment and sales performance to generate actionable insights.  
+- 🔄 Automated **data cleaning workflows** using **SQL** and **Excel VBA**, improving reporting turnaround time by **30%**.  
+- 🗂️ Delivered weekly presentations summarizing key findings to stakeholders, enhancing data-driven discussions.  
+- 🤝 Collaborated cross-functionally with product, marketing, and analytics teams to support strategic decisions.  
+
+---
+
+### 🧪 Data Analytics Intern – SWECHA India  
+*May 2021 – Aug 2021 · Hyderabad, India*
+
+- 🔄 Automated routine **data workflows** using Python and SQL, reducing manual processing time by **50%**.  
+- 📊 Created interactive dashboards using **Power BI** and **Tableau** to visualize real-time operational metrics.  
+- 🧠 Developed **predictive models** using Scikit-learn to support decision-making in resource planning and optimization.  
+- 📡 Implemented **real-time metric tracking** using **Plotly**, enabling responsive performance monitoring across operational KPIs.  
+
 
 ---
 
 ## 💼 **Entrepreneurial & Family Business Experience**
 
-### 🍽️ **Data Analyst – Restaurant Operations**  
-**Madhuvan Group Of Hotels (Family-Owned Restaurant Chain) – Multiple Cities, India** *(Jan 2020 – Present)*  
-- Performed **sales trend analysis** using **Excel** and **Python**, identifying best-selling items and underperforming menu categories to inform **pricing** and **promotion strategies**.  
-- Aggregated and analyzed **customer reviews**, **order patterns**, and **survey feedback** to optimize the menu, leading to a **15% increase in customer satisfaction**.  
-- Created **forecasting models** to align **inventory** with projected demand, reducing **perishable food waste by over 10%**.  
-- Executed **marketing campaign analytics** by segmenting customer data for **targeted SMS** and **social media promotions**; tracked performance via **ROI** and **conversion rates**.  
-- Built **real-time dashboards** using **Tableau** and **Power BI** for **branch managers** to monitor **footfall**, **average order value (AOV)**, **peak hours**, and **staff efficiency**.  
-- Consolidated data from multiple branches to create **multi-branch performance reports**, highlighting **regional trends** and offering **data-driven recommendations**.  
-- Supported **pricing strategy** using **competitor analysis** and historical margin data to increase **profitability**.
+### 🍽️ Data Analyst – Restaurant Operations & Hospitality Analytics  
+**Madhuvan Group Of Hotels (Self-employed)**  
+*Jan 2020 – May 2022 · Multiple Cities, India · On-site & Remote*
 
-### 🏨 **Junior Data Engineer – Hospitality Analytics**  
-**Madhuvan Group Of Hotels (Family-Owned Business) – Multiple Cities, India** *(Jan 2021 – Present)*  
-- Developed **data pipelines** to consolidate **booking data** from multiple hotel branches into a centralized **PostgreSQL** database, improving data consistency.  
-- Built automated **ETL workflows** using **Python** and **Pandas** to ingest room reservations, occupancy logs, and **guest feedback** from CSVs and spreadsheets.  
-- Designed **normalized relational schemas** for bookings, **housekeeping**, customer details, and **service usage**, improving **query performance** and **reporting scalability**.  
-- Integrated hotel operations with **Tableau** and **Power BI** dashboards to visualize **occupancy rate**, **RevPAR**, and **average length of stay**, enabling **real-time decision-making**.  
-- Implemented secure **cloud backups to AWS S3**, enhancing **data integrity** and **disaster recovery readiness**.  
-- Reduced **manual reporting time by 35%** through automated **data refresh pipelines** and dynamic **summary reports**.  
-- Collaborated across locations to standardize **data collection practices**, ensuring **data quality** and reporting alignment.
+- 🔄 Built a centralized reservation system by consolidating multi-branch hotel and restaurant data into a PostgreSQL database with normalized schemas.
+- ⚙️ Automated ETL workflows using Python and Pandas for ingesting booking, occupancy, and guest feedback datasets.
+- 📊 Developed real-time dashboards using Tableau and Power BI for KPIs like RevPAR, occupancy, sales, and customer satisfaction.
+- 📈 Created demand-based forecasting models to reduce food waste by 10% and improve pricing strategies.
+- ☁️ Implemented secure AWS S3 backups and automated data refresh pipelines, reducing manual reporting by 35%.
+- 📉 Conducted sales trend analysis to identify pricing and promotion opportunities using Python and Excel.
+- 🧠 Delivered customer preference insights from reviews and order patterns, leading to a 15% improvement in satisfaction.
+- 📬 Segmented customer data for SMS and social media campaigns, tracked performance via ROI and conversion rates.
+- 🏪 Built branch-level performance dashboards and consolidated multi-location data for monthly executive reporting.
+- 🤝 Collaborated across locations to standardize data collection and ensure reporting consistency.
 
 ---
 
