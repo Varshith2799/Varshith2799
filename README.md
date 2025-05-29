@@ -88,7 +88,7 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 ## 🌐 Virtual Internship Experience
 
 ### 🧠 BCG Data Science Virtual Experience Program – Forage *(May 2025)*  
-📌 *Client Focus:* PowerCo (Energy Sector)  
+📌 *Client Focus:* PowerCo (Gas & Electricity)  
 - 🤖 Engineered a **Random Forest model** achieving **85% churn prediction accuracy** for PowerCo’s customer base.  
 - 🧹 Conducted **data cleaning and trend analysis** using Python (**Pandas**, **NumPy**).  
 - 📝 Summarized findings in an **executive presentation** to simulate client delivery.  
