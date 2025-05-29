@@ -168,6 +168,12 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 ✔️ Developed a **churn prediction model** achieving **95.6% accuracy**.  
 ✔️ Recommended strategies that reduced churn rates by **15%**.
 
+### ✈️ **Air Traffic Passenger Statistics Dashboard** *(Oct 2024 - Nov 2024)*  
+📌 *Tech Stack:* **Tableau**, **SQL**, **Excel**  
+✔️ Developed a **Tableau dashboard** visualizing **passenger traffic, airline performance, and terminal utilization**.  
+✔️ Identified **top airlines** and **terminal congestion hotspots** through heatmaps and trend analysis.  
+✔️ Helped optimize **airport operations** using insights from **ticket fare categories** and **passenger volumes**.
+
 ### 🎓 **Course Recommendation System Using TF-IDF & Fuzzy Matching** *(Aug 2023 - Sep 2023)*  
 📌 *Tech Stack:* **Python**, **TF-IDF**, **Cosine Similarity**, **Fuzzy Matching**  
 ✔️ Built a **personalized course recommendation system** using **NLP**.  
