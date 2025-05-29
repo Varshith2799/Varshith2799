@@ -75,19 +75,6 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 - 🏗️ Designed real-time data workflows integrated with **Snowflake** and **AWS S3** to ensure reliable and timely access to analytics data.  
 - ✅ Established **data governance policies** to ensure regulatory compliance, data integrity, and transparency across stakeholders.  
 
----
-
-### 📊 Data Visualization Intern – Excelerate  
-*Feb 2025 – Apr 2025 · Remote*
-
-- 📈 Developed **interactive dashboards** in **Tableau** and **Power BI** to track KPIs for marketing and product strategies.  
-- 🔍 Conducted **exploratory data analysis (EDA)** on customer sentiment and sales performance to generate actionable insights.  
-- 🔄 Automated **data cleaning workflows** using **SQL** and **Excel VBA**, improving reporting turnaround time by **30%**.  
-- 🗂️ Delivered weekly presentations summarizing key findings to stakeholders, enhancing data-driven discussions.  
-- 🤝 Collaborated cross-functionally with product, marketing, and analytics teams to support strategic decisions.  
-
----
-
 ### 🧪 Data Analytics Intern – SWECHA India  
 *May 2021 – Aug 2021 · Hyderabad, India*
 
@@ -96,6 +83,23 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 - 🧠 Developed **predictive models** using Scikit-learn to support decision-making in resource planning and optimization.  
 - 📡 Implemented **real-time metric tracking** using **Plotly**, enabling responsive performance monitoring across operational KPIs.  
 
+---
+
+## 🌐 Virtual Internship Experience
+
+### 🧠 BCG Data Science Virtual Experience Program – Forage *(May 2025)*  
+📌 *Client Focus:* PowerCo (Energy Sector)  
+- 🤖 Engineered a **Random Forest model** achieving **85% churn prediction accuracy** for PowerCo’s customer base.  
+- 🧹 Conducted **data cleaning and trend analysis** using Python (**Pandas**, **NumPy**).  
+- 📝 Summarized findings in an **executive presentation** to simulate client delivery.  
+- 📊 Demonstrated business impact by identifying high-risk segments and suggesting **retention strategies**.
+
+### 📊 Data Visualization Intern – Excelerate *(Feb 2025 – Apr 2025 · Remote)*  
+- 📈 Developed **interactive dashboards** in **Tableau** and **Power BI** to track KPIs across marketing and product lines.  
+- 🔍 Conducted **EDA** on customer sentiment and sales trends to provide actionable insights.  
+- ⚙️ Automated **data cleaning workflows** using **SQL** and **Excel VBA**, reducing report prep time by **30%**.  
+- 📅 Delivered **weekly insights presentations** to stakeholders for data-driven decision-making.  
+- 🤝 Collaborated with **product, marketing, and analytics teams** to drive strategic alignment.
 
 ---
 
