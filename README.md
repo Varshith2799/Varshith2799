@@ -200,4 +200,4 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 ### 🎯 **Conclusion**
 This portfolio showcases my **Data Engineering, Data Analytics & Data Science projects**, skills, and experience.  
 💡 **Want to collaborate or hire me? Reach out!** 😊  
-📬 [📧 Email](mailto:vkakollu@gmu.edu) | [💼 LinkedIn](https://linkedin.com/in/vkakollu9999/) | [🔗 GitHub](https://github.com/Varshith2799)
+📬 [📧 Email](mailto:vkakollu1707@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/varshith9999/) | [🔗 GitHub](https://github.com/Varshith2799)
