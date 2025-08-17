@@ -56,45 +56,56 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 
 ## 💼 Work Experience
 
-### 🛫 Data Analyst – Center for Air Transportation Systems Research (CATSR)  
-**George Mason University**  
-*Jan 2025 – Present · Fairfax, Virginia · On-site*
+### 🏢 AWS Data Engineer – Cardinal Health  
+*Oct 2024 – Present · Dublin, OH*  
 
-- 📚 Analyzed over 500,000 rows of historical flight data from the Bureau of Transportation Statistics, improving data quality by 35% using Python (pandas).
-- ⚙️ Automated real-time stock data ingestion using AWS Lambda and Amazon EventBridge, reducing manual data collection efforts by 90%.
-- 🧩 Engineered and merged airline performance and financial datasets into Amazon S3 for centralized access and daily updates.
-- 🌲 Applied Random Forest model for feature selection, identifying the top 10 predictors for flight and stock data analysis.
-- 📈 Trained and evaluated multiple forecasting models including Lasso, Ridge, XGBoost, Random Forest, and LSTM, achieving up to 87% accuracy in predicting airline performance.
-- 📊 Designed and deployed interactive dashboards using React and Vercel, improving data visibility for investors and operational stakeholders.
+- 🛠️ Designed and set up an **Enterprise Data Lake** using AWS S3, Glue, and Redshift to support analytics and reporting.  
+- ⚡ Built **real-time ingestion pipelines** with AWS Kinesis and Lambda, enabling millisecond-level event capture for trading and pricing data.  
+- 🔄 Automated **batch and streaming workflows** using Apache Airflow integrated with Databricks (PySpark/Scala).  
+- ❄️ Developed **ELT pipelines** in Snowflake using Snowpipe, Streams, and Tasks for automated ingestion and incremental transformations.  
+- 🚀 Improved dashboard load times by **60%** via Snowflake performance tuning (clustering, micro-partitioning, caching).  
+- 🔐 Implemented **RBAC, KMS encryption, and data masking** for HIPAA and regulatory compliance.  
+- 🐳 Containerized PySpark jobs and Snowflake UDFs with **Docker**, deployed through **Jenkins CI/CD** pipelines.  
+- ⚡ Integrated **Redis caching** to optimize reference data lookups, reducing Spark job latency by 70%.  
 
-### 🏢 Data Engineering Intern – Blue Yonder  
-*June 2022 – Dec 2022 · Hyderabad, India*
+---
 
-- 🔧 Engineered **scalable ETL pipelines** using **AWS Glue**, **Lambda**, and **Apache Airflow** to streamline supply chain analytics workflows.  
-- ⚡ Optimized **SQL queries**, reducing query execution time by **40%**, enhancing reporting speed and resource efficiency.  
-- 🏗️ Designed real-time data workflows integrated with **Snowflake** and **AWS S3** to ensure reliable and timely access to analytics data.  
-- ✅ Established **data governance policies** to ensure regulatory compliance, data integrity, and transparency across stakeholders.  
+### 🏢 Data Engineer – Infosys  
+*Feb 2022 – Jul 2023 · Bengaluru, India*  
 
-### 🧪 Data Analytics Intern – SWECHA India  
-*May 2021 – Aug 2021 · Hyderabad, India*
+- 🔄 Designed ETL frameworks to ingest **application logs, IoT telemetry, and user events** into Snowflake and Cosmos DB.  
+- ⚡ Built ingestion pipelines using **AWS Glue (batch)** and **Snowpipe (real-time)** with orchestration in Apache Airflow.  
+- 🔥 Developed Spark jobs in **Databricks (PySpark/Scala)** to process Kafka event streams with optimized partitioning strategies.  
+- 🤖 Partnered with Data Scientists to **deploy ML models** in AWS using Airflow pipelines for automated scoring.  
+- 🔐 Implemented **data governance** with IAM roles, AWS KMS encryption, and PII masking.  
+- 🚀 Enhanced Snowflake performance by **40%** via partition pruning, clustering, and query tuning on **10M+ row datasets**.  
+- 🐳 Containerized ETL scripts and CLI tools using **Docker**, enabling consistent deployments across environments.  
+- ⚡ Introduced **Redis-based reconciliation** for near real-time data validation, ensuring accuracy in dashboards.  
 
-- 🔄 Automated routine **data workflows** using Python and SQL, reducing manual processing time by **50%**.  
-- 📊 Created interactive dashboards using **Power BI** and **Tableau** to visualize real-time operational metrics.  
-- 🧠 Developed **predictive models** using Scikit-learn to support decision-making in resource planning and optimization.  
-- 📡 Implemented **real-time metric tracking** using **Plotly**, enabling responsive performance monitoring across operational KPIs.  
+---
+
+### 🏢 Jr. Data Engineer – Aadya Informatics Private Limited  
+*Jan 2021 – Jan 2022 · Hyderabad, India*  
+
+- 📂 Assisted in building pipelines for **CSV, XML, and API ingestion** into Snowflake staging layers.  
+- 🐍 Automated flat-file ingestion with **Python scripts** and Snowpipe, reducing manual intervention.  
+- ⚡ Developed AWS Glue jobs for transformations before loading into **Redshift**.  
+- 🔎 Used **Athena** for quick validations and exploratory queries on raw S3 datasets.  
+- 📊 Supported **Power BI dashboards** for operational KPIs and reconciliation metrics.  
+- 🛠️ Managed Terraform for consistent AWS infrastructure provisioning.
 
 ---
 
 ## 🌐 Virtual Internship Experience
 
-### 🧠 BCG Data Science Virtual Experience Program – Forage *(May 2025)*  
+### 🧠 BCG Data Science Virtual Experience Program – Forage  
 📌 *Client Focus:* PowerCo (Gas & Electricity)  
 - 🤖 Engineered a **Random Forest model** achieving **85% churn prediction accuracy** for PowerCo’s customer base.  
 - 🧹 Conducted **data cleaning and trend analysis** using Python (**Pandas**, **NumPy**).  
 - 📝 Summarized findings in an **executive presentation** to simulate client delivery.  
 - 📊 Demonstrated business impact by identifying high-risk segments and suggesting **retention strategies**.
 
-### 📊 Data Visualization Intern – Excelerate *(Feb 2025 – Apr 2025 · Remote)*  
+### 📊 Data Visualization Intern – Excelerate 
 - 📈 Developed **interactive dashboards** in **Tableau** and **Power BI** to track KPIs across marketing and product lines.  
 - 🔍 Conducted **EDA** on customer sentiment and sales trends to provide actionable insights.  
 - ⚙️ Automated **data cleaning workflows** using **SQL** and **Excel VBA**, reducing report prep time by **30%**.  
@@ -107,7 +118,7 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 
 ### 🍽️ Data Analyst – Restaurant Operations & Hospitality Analytics  
 **Madhuvan Group Of Hotels (Self-employed)**  
-*Jan 2020 – May 2022 · Multiple Cities, India · On-site & Remote*
+* Multiple Cities, India · On-site & Remote*
 
 - 🔄 Built a centralized reservation system by consolidating multi-branch hotel and restaurant data into a PostgreSQL database with normalized schemas.
 - ⚙️ Automated ETL workflows using Python and Pandas for ingesting booking, occupancy, and guest feedback datasets.
