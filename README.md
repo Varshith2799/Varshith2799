@@ -9,7 +9,7 @@ Welcome to my professional portfolio! I am **Varshith Kakollu**, a passionate **
 🔹 **Looking for:** Exciting opportunities in **Data Engineering, Data Analytics, and Data Science**.
 
 📬 **Let's Connect:**  
-[📧 Email](mailto:vkakollu@gmu.edu) | [💼 LinkedIn](https://linkedin.com/in/vkakollu9999/) | [🔗 GitHub](https://github.com/Varshith2799)
+[📧 Email](mailto:vkakollu1707@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/varshith9999/) | [🔗 GitHub](https://github.com/Varshith2799)
 
 ---
 
